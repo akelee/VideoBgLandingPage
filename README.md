@@ -1,4 +1,4 @@
-# VideoBgLandingPage
+# YogaBgLandingPage
 
 Simple landing page with autoplay video background.
 
